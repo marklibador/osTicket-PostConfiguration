@@ -247,6 +247,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ---
 
-  <h1>ALL DONE!! CONGRATS!! </h1>
+  <h1>Congrats You've finished. </h1>
 
   <h3>NEXT TUTORIAL:  <a href="https://github.com/marklibador/osTicket-Ticket-Lifecycle-Examples/blob/main/README.md">"Ticket Lifecycle Examples"</a>  </h3>
